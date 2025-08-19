@@ -53,8 +53,8 @@ type lotteryConfig = {
 
 const prng = new PRNG();
 
-export const BOTID = 'pschinabot';
-export const SERVER_URL = 'https://play.pschina.one';
+export const BOTID = 'impulserouge';
+export const SERVER_URL = 'https://impulse-server.fun';
 const USERPATH = 'config/pet-mode/user-properties';
 const GIFTPATH = 'config/pet-mode/user-gifts';
 const DEPOSITPATH = 'config/pet-mode/deposit';
